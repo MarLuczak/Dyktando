@@ -1,0 +1,6 @@
+# Program jest tylko na Windowsa: w pobranych plikach (ZIP, checkout) końce linii Windowsa
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.txt text eol=crlf
+*.md  text eol=crlf
+LICENSE text eol=crlf
